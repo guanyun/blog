@@ -2,7 +2,7 @@
 layout: post
 title:  "酱香型、浓香型、清香型、兼香型白酒到底有什么区别？"
 date:   2015-07-24 15:41:12
-image: http://cdn.thexstore.cn/blog.flavor.jpg
+image: http://cdn.guanyun.cn/blog.flavor.jpg
 author: czy
 ---
 

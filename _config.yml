@@ -12,9 +12,9 @@ title: "观云博客"
 description: > # this means to ignore newlines until "email:"
    用简单的方式说一说复杂的白酒。
 
-email: mua@thexstore.cn
+email: mua@guanyun.cn
 logo: "/assets/images/gy_logo.jpg"
-cover: "http://cdn.thexstore.cn/blog.banner.jpg"
+cover: "http://cdn.guanyun.cn/blog.banner.jpg"
 
 name: '观云'
 authors:
@@ -27,7 +27,7 @@ authors:
 
 paginate:	5
 
-url: "http://blog.thexstore.cn"
+url: "http://blog.guanyun.cn"
 baseurl: ""
 
 # social icons and sharing options
