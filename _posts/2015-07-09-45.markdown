@@ -2,7 +2,7 @@
 layout: post
 title:  "刚刚好，45度。"
 date:   2015-07-09 09:41:12
-image: http://cdn.guanyun.cn/blog.45.jpg
+image: https://cdn.thexstore.cn/blog.45.jpg
 author: chn
 ---
 种桑百余树，种黍三十亩。衣食既有馀，时时会亲友。

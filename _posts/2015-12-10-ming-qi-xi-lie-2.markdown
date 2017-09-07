@@ -2,12 +2,12 @@
 layout: post
 title:  "名器系列 之 教你做人"
 date: 2015-12-10 10:54:12
-image: http://cdn.guanyun.cn/blog/mqxl2_post.jpg
+image: https://cdn.thexstore.cn/blog/mqxl2_post.jpg
 author: czy
 ---
 上回说到：巧设计一壶藏两心，暗投毒灾祸起宫闱。宫廷里的征战杀伐往往需要掩人耳目，不能明刀明枪，所以能倒出两种酒的鸳鸯壶就成了趁手的兵器。这一回，我们要介绍另外一种酒器，相比暗黑系的鸳鸯壶，它却是光环加身，被世人所称道，这就是专治贪心的公道杯。
 
-![](http://cdn.guanyun.cn/blog/mqxl2_01.png)
+![](https://cdn.thexstore.cn/blog/mqxl2_01.png)
 
 公道杯，一般又称作“九龙公道杯”，由上下两部分组成，上面是一只杯子，杯中立着一条龙，杯身还有八条姿态各异的龙作为装饰。下面是一块圆盘和空心的底座。斟酒时，如适度则滴酒不漏，如超过一定的限量，酒就会漏到底座中去。
 
@@ -21,39 +21,39 @@ author: czy
 
 龙身是一个虹吸装置，里面是一段倒U形的管道。U形管的的两个开口一高一低，进水口稍高于出水口。当水面低于U形管顶端时，内外大气压力一致，水就不会流出来；若水位高出U形管顶端，则管内形成负压，产生虹吸现象，引水外流。
 
-![](http://cdn.guanyun.cn/blog/mqxl2_02.jpg)
+![](https://cdn.thexstore.cn/blog/mqxl2_02.jpg)
 
 这么有趣的酒器自然也会在民间流行，但是老百姓不敢用龙，所以一般用一个老翁站在杯子里，杯身画上寿桃、牡丹之类的吉祥图案，偶尔拿出来给晚辈们上一上思想教育课。比如这样的：
 
-![](http://cdn.guanyun.cn/blog/mqxl2_03.png)
+![](https://cdn.thexstore.cn/blog/mqxl2_03.png)
 
 还有一种更有趣的，公道杯里再扣一只碗，碗底挖个洞，洞里也站着一个老头。杯子空着的时候，老头藏在洞里，只露个头顶。开始斟酒的时候，随着液面的上升，老头会慢慢浮起来，最高能露出两只脚，再倒酒则老头再次沉底。酒桌上戏耍时，互相比较，看谁能让老头露脚而不沉下去。这个老头又叫“公道老”，多见于清代后期粉彩类器物。
 
-![](http://cdn.guanyun.cn/blog/mqxl2_04.png)
+![](https://cdn.thexstore.cn/blog/mqxl2_04.png)
 
 接下来我们会说到种出这棵树的人：
 
-![](http://cdn.guanyun.cn/blog/mqxl2_05.jpg)
+![](https://cdn.thexstore.cn/blog/mqxl2_05.jpg)
 
 对，没错，是—毕达哥拉斯。
 
-![](http://cdn.guanyun.cn/blog/mqxl2_06.png)
+![](https://cdn.thexstore.cn/blog/mqxl2_06.png)
 
 在西方，同样原理的杯子，就是以这位伟大先哲、数学家的名字来命名—毕达哥拉斯杯。它长这样：
 
-![](http://cdn.guanyun.cn/blog/mqxl2_07.jpg)
+![](https://cdn.thexstore.cn/blog/mqxl2_07.jpg)
 
 这只杯子外形很像普通的高脚杯，但是中间多了一个圆柱，里面有一根管道。当水面低于管道顶端时，水不会流出来。当水面超过管道顶端时就会流出来。据说是毕达哥拉斯为了惩罚贪心的工人而设计的。
 
-![](http://cdn.guanyun.cn/blog/mqxl2_08.png)
+![](https://cdn.thexstore.cn/blog/mqxl2_08.png)
 
 在日本，类似的器具叫做“教训茶碗”，总之就是为了—教你做人。
 
-![](http://cdn.guanyun.cn/blog/mqxl2_09.jpg)
+![](https://cdn.thexstore.cn/blog/mqxl2_09.jpg)
 
 其实公道杯的原理非常简单，只要一只一次性杯子，一根吸管，一点橡皮泥（或者蜡），就可以做出一只简易的“公道杯”。这个小制作也很适合和孩子一玩。
 
-![](http://cdn.guanyun.cn/blog/mqxl2_10.jpg)
+![](https://cdn.thexstore.cn/blog/mqxl2_10.jpg)
 
 这里有一个教学视频：
 

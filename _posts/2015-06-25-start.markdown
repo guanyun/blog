@@ -2,7 +2,7 @@
 layout: post
 title:  "我们开博了"
 date:   2015-06-25 09:41:12
-image: http://cdn.guanyun.cn/blog.start.jpg
+image: https://cdn.thexstore.cn/blog.start.jpg
 author: chn
 ---
 今天是2015年的6月25号，一个普通的周四，今天，我们开博了。在这个博客里，我们想和你分享一些酒的故事，人的故事。
